@@ -1,0 +1,7 @@
+Zusammenfassung: Was wurde gemacht bzw. was wurde auf dem Meeting besprochen?
+Details: Kurze Beschreibung besonders interessanter Aspekte.
+Reflexion: Was war der schwierigste Teil? Wie haben Sie dieses Problem gelöst?
+Reflexion: Was haben Sie gelernt oder (besser) verstanden?
+Team: Mit wem haben Sie zusammengearbeitet?
+Link zu Ihrem Repo mit den relevanten Artefakten (Lösung, Slides für den Vortrag, …).
+https://github.com/sreitzenstein/GL-KI-WS2526
